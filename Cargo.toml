@@ -4,11 +4,11 @@ version = "0.1.0"
 authors = ["Stefan Majewsky <majewsky@gmx.net>"]
 edition = "2018"
 description = "A string type that tracks Ruby glosses attached to parts of it."
-documentation = "https://docs.rs/ruby-string"
+documentation = "https://docs.rs/ruby-string/0.1.0/ruby_string/"
 readme = "README.md"
 repository = "https://github.com/majewsky/rust-ruby-string"
 license = "Apache-2.0"
-keywords = ["furigana", "bopomofo", "cjk"]
+keywords = ["cjk", "text", "furigana", "bopomofo"]
 categories = ["data-structures", "text-processing"]
 
 [dependencies]
