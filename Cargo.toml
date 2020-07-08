@@ -3,7 +3,12 @@ name = "ruby-string"
 version = "0.1.0"
 authors = ["Stefan Majewsky <majewsky@gmx.net>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "A string type that tracks Ruby glosses attached to parts of it."
+documentation = "https://docs.rs/ruby-string"
+readme = "README.md"
+repository = "https://github.com/majewsky/rust-ruby-string"
+license = "Apache-2.0"
+keywords = ["furigana", "bopomofo", "cjk"]
+categories = ["data-structures", "text-processing"]
 
 [dependencies]
